@@ -16,5 +16,10 @@ translations, rotations.....
 distortion Image Using Gauss Distribution
 
 
-###Affine:
-![](https://github.com/FrankXu0808/Thesis_Reappearance-BestPracticeOfCNNinMnist/images/affine.png)  
+Affine:
+----------
+(https://github.com/FrankXu0808/Thesis_Reappearance-BestPracticeOfCNNinMnist/images/affine.png)  
+
+Applying affine transformation to MNIST images:
+(https://github.com/FrankXu0808/Thesis_Reappearance-BestPracticeOfCNNinMnist/images/affine_exa.png)  
+
