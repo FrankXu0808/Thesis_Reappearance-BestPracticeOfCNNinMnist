@@ -18,8 +18,8 @@ distortion Image Using Gauss Distribution
 
 Affine:
 ----------
-![affine method](https://github.com/FrankXu0808/Thesis_Reappearance-BestPracticeOfCNNinMnist/images/affine.png)  
+![affine method](https://github.com/FrankXu0808/Thesis_Reappearance-BestPracticeOfCNNinMnist/tree/master/images/affine.png)  
 
 Applying affine transformation to MNIST images:
-![affine result](https://github.com/FrankXu0808/Thesis_Reappearance-BestPracticeOfCNNinMnist/images/affine_exa.png)  
+![affine result](https://github.com/FrankXu0808/Thesis_Reappearance-BestPracticeOfCNNinMnist/tree/master/images/affine_exa.png)  
 
