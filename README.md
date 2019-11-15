@@ -43,15 +43,16 @@ The effect of applying elastic distortion to the MNIST image is as follows:
 Codes of method Affine and Elastic Distortation are got from internet,not programmed by myself.
 
 The Contrast between Affine and Elastic Distortation:
+-------------
 <br><br>
 ![affine result](https://github.com/FrankXu0808/Thesis_Reappearance-BestPracticeOfCNNinMnist/raw/master/images/compare.png)  
 
 The structure of CNN is same as it illustrated in paper, and I implemented it using Pytorch.
 
 At the project I tried three methods of image preprocessing, such as:
-1.`Affine`
-2.`Elastic Dis..`
-3.`Affine + Elastic`
+1. `Affine`
+2. `Elastic Dis..`
+3. `Affine + Elastic`
 
 And got the results after 400 epoch training:
 <br><nr>
@@ -65,4 +66,4 @@ The acc of my model did not reach the acc of paper, the reeson may be:
 
 About the acc of MNIST at recent, see https://paperswithcode.com/sota/image-classification-on-mnist
 
-![affine result](https://github.com/FrankXu0808/Thesis_Reappearance-BestPracticeOfCNNinMnist/raw/master/images/compare.png)  
+
