@@ -41,10 +41,10 @@ The effect of applying elastic distortion to the MNIST image is as follows:
 ![affine result](https://github.com/FrankXu0808/Thesis_Reappearance-BestPracticeOfCNNinMnist/raw/master/images/elastic_transformation.png)
 
 Codes of method Affine and Elastic Distortation are got from internet,not programmed by myself.
-
+<br><br>
 The Contrast between Affine and Elastic Distortation:
 -------------
-<br><br>
+
 ![affine result](https://github.com/FrankXu0808/Thesis_Reappearance-BestPracticeOfCNNinMnist/raw/master/images/compare.png)  
 
 The structure of CNN is same as it illustrated in paper, and I implemented it using Pytorch.
