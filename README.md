@@ -54,8 +54,8 @@ At the project I tried three methods of image preprocessing, such as:
 2. `Elastic Dis..`
 3. `Affine + Elastic`
 
-And got the results after 400 epoch training:
-<br><nr>
+#### And got the results after 400 epoch training:
+<br><br>
 ![affine result](https://github.com/FrankXu0808/Thesis_Reappearance-BestPracticeOfCNNinMnist/raw/master/images/results.png)  
   
 The acc of my model did not reach the acc of paper, the reeson may be:
